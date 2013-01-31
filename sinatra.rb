@@ -34,5 +34,5 @@ end
 
 not_found do
 	status 404
-	'not found, sorry'
+	'not found, I\'m very sorry'
 end
